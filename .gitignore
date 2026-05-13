@@ -5,5 +5,3 @@ __pycache__/
 venv/
 logs/
 *.log
-app/models/*.pt
-app/models/*.pkl
