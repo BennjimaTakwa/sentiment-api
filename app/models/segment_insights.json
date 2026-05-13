@@ -1,0 +1,47 @@
+{
+  "0": {
+    "segment_name": "Satisfied Loyal Shoppers",
+    "n_users": 20952,
+    "avg_score": 3.968,
+    "pct_positive": 62.39,
+    "pct_negative": 10.338,
+    "top_platform": "Alibaba",
+    "business_insight": "\ud83d\udfe2 High satisfaction, short reviews, low frustration. Target with loyalty rewards and upsell campaigns."
+  },
+  "1": {
+    "segment_name": "Frustrated Complainers",
+    "n_users": 21851,
+    "avg_score": 2.614,
+    "pct_positive": 17.404,
+    "pct_negative": 37.422,
+    "top_platform": "Walmart",
+    "business_insight": "\ud83d\udd34 Long reviews, high frustration, frequent replies needed. Priority for customer service intervention."
+  },
+  "2": {
+    "segment_name": "Neutral Browsers",
+    "n_users": 18285,
+    "avg_score": 3.491,
+    "pct_positive": 49.264,
+    "pct_negative": 21.635,
+    "top_platform": "Aliexpress",
+    "business_insight": "\ud83d\udd35 Mid-range satisfaction, low engagement. Activate with personalized nudges and discovery content."
+  },
+  "3": {
+    "segment_name": "Impulsive Buyers",
+    "n_users": 20682,
+    "avg_score": 2.654,
+    "pct_positive": 21.067,
+    "pct_negative": 39.875,
+    "top_platform": "Amazon shopping",
+    "business_insight": "\ud83d\udfe1 Impulsive, high negative rate, zero reply rate. Target with return policy reassurance and trust signals."
+  },
+  "4": {
+    "segment_name": "Engaged Brand Advocates",
+    "n_users": 18229,
+    "avg_score": 2.163,
+    "pct_positive": 16.967,
+    "pct_negative": 59.175,
+    "top_platform": "Myntra",
+    "business_insight": "\ud83d\udfe3 Most verbose, highest frustration, highest influence. Critical segment \u2014 address issues publicly, turn into advocates."
+  }
+}
