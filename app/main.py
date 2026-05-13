@@ -94,7 +94,7 @@ app.include_router(segments.router)
 
 
 # ── Root
-@app.get("/", tags=["Root"])
+@app.api_route("/", methods=["GET", "HEAD"], tags=["Root"])
 async def root():
     return {
         "name"   : "Customer Sentiment & Retention API",
