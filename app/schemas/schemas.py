@@ -82,6 +82,7 @@ class BatchPredictionResponse(BaseModel):
 
 # ── Health check response
 class HealthResponse(BaseModel):
+    model_config   = {"protected_namespaces": ()}
     status     : str
     model_loaded: bool
     version    : str
